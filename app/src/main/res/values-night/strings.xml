@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+
+    <string name="navigation_drawer" translatable="false">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+
+</resources>
